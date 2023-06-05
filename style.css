@@ -1,0 +1,483 @@
+header {display: flex;
+       flex-direction: row;
+       align-items: center;
+       justify-content: space-between;
+       padding: 10px 64px;}
+
+body{font-family: 'inter';
+  background-color: #F5F5F5;
+  margin: 0;
+  overflow-x: hidden;
+  }
+
+nav {font-family:'inter' ;
+    font-size: 18px;
+    }
+
+a {margin-left: 25px;} 
+
+
+button:hover{
+  opacity: 80%;
+}
+
+
+a:hover {color:gray;}
+
+
+.Real-logo {height: 40px;
+           margin-left: -170px;}
+
+
+div.Logo {display: flex;
+         flex-direction: row;
+          align-items: center;
+          justify-content: space-between;}
+
+h5 {font-size: 32px;
+   font-weight: 700;
+   margin-left: 3px;}
+
+
+button.signup {font-size: 14px;
+               font-weight: 400;
+               font-family: 'inter';
+              border: 1px solid #000000;
+              box-sizing: border-box;
+              padding: 7px;
+              border-radius: 5px;
+              background-color: transparent;
+              margin-right: -200px;
+            }   
+
+
+button.login {font-size: 14px;
+                font-weight: 400;
+                font-family: 'inter';
+               border:1px solid #000000;
+               box-sizing: border-box;
+               padding: 10px;
+               border-radius: 5px;
+               background-color: black;
+               color: white;
+               margin-left: -40px;
+             }   
+
+
+section.hero {display: grid;
+              grid-template-columns: 1fr 1fr;
+             align-items: center;
+             justify-content: space-between;
+            padding-left: 64px ;
+            }
+            
+            
+div.myGuy {margin-top: -100px;}            
+ 
+h1 {font-size: 40px;
+   font-weight: 700;
+   line-height: 48.41px;
+  color:  #151515;
+  }             
+p {font-size: 18px;
+  font-weight: 400;
+ line-height: 24.2px;
+  color: #54535C;
+  }
+
+button.getStarted {background-color: #151515;
+  color: white;
+  height: 44px;
+  width: 127px;
+  font-family: 'inter';
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 10px;
+} 
+
+
+.Rate {height: 50px;
+      margin-bottom: -110px;
+    margin-left: -200px;}
+
+
+.KK {position: absolute;}    
+
+
+    
+
+img{height: 505px;
+   padding-left: 160px;}
+
+   
+
+.star{position: absolute;
+      left: 820px;
+      height: 64px;
+     top: 187.59px;}
+     
+.visa {position: absolute;
+      left: 84.88%;
+      height: 72px;
+      top: 195px;
+      filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.08));
+
+    }     
+
+
+.stripe {position: absolute;
+        left: 50.97%;
+        top: 300px;
+       height: 130px;
+       filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.08));
+} 
+       
+       
+.opay {position: absolute;
+      left: 82.92%;
+       top: 350px;
+      height: 130px;
+      filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.08));
+    }
+      
+      
+.mastercard {position: absolute;
+            left: 59.6%;
+            height: 130px;
+            top: 500px;
+            filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.08));
+          }
+          
+          
+section.Second {display: grid;
+               grid-template-columns: 1fr 1fr 1fr;
+               padding-left: 250px;
+               padding-right: 50px;
+               background-color: white;}         
+
+
+section.Third {display: flex;
+                flex-direction: row;
+                background-color: #F5F5F5;
+                justify-content: space-between;
+               align-items: center;
+               margin-bottom: 20px;} 
+                
+.myBoy {
+       height: 490px;}
+       
+       
+.VIBE {margin-right: -45px;}
+ 
+.NO-VIBE {margin-right:100px ;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         }
+
+ul {background-color: black;
+      color: white;}
+      
+li {align-items: center;}      
+      
+      
+h3 {font-size: 24px;
+   font-weight: 500px;}  
+   
+p.you {font-size:16px ;
+       font-weight: 400;}   
+
+
+button.Get-now {background-color: #151515;
+        color: white;
+        height: 44px;
+        width: 127px;
+        font-family: 'inter';
+        font-size: 14px;
+        font-weight: 400;
+        border-radius: 10px;
+        margin-right: 240px;
+      } 
+
+
+
+
+section.fifth {display: flex;
+               flex-direction: column;
+              justify-content: space-between;
+              align-items: center;
+              padding-top: 30px;
+              padding-left: 80px;
+              padding-right: 40px;
+             background-color: white;} 
+              
+
+
+div.stop {display: grid;
+         grid-template-columns: 1fr 1fr 1fr;
+         justify-content: space-between;
+         gap: 100px;
+         margin-top: 60px;
+         padding-bottom: 50px;
+        }
+
+div.school {border: 1px solid black;
+            border-radius: 10px;
+           padding:40px ;
+            margin-left: 4px;
+            margin-top: 50px;
+           box-sizing: border-box;
+           background-color: black;
+           color: white;
+           align-items: center;}   
+           
+           
+
+div.scho {border: 1px solid black;
+            border-radius: 10px;
+           padding:40px ;
+            margin-left: 4px;
+            margin-top: 50px;
+           box-sizing: border-box;
+           background-color: black;
+           color: white;
+           align-items: center;}   
+           
+           
+div.sch {border: 1px solid black;
+            border-radius: 10px;
+           padding:40px ;
+            margin-left: 4px;
+            margin-top: 50px;
+           box-sizing: border-box;
+           background-color: black;
+           color: white;
+           align-items: center;}  
+           
+           
+
+.dollar-sign {background-color: white;
+             border-radius: 9999px;
+             padding: 10px;
+             margin-left: 100px;} 
+             
+             
+.TEC  { margin-left: 30px;}
+
+.NO  {margin-left: 20px;}
+
+.TECno  { margin-left: 60px;}
+
+
+.TECyes  { margin-left: 75px;}
+
+
+section.seventh {display: grid;
+                grid-template-columns: 1fr 1fr;
+                padding-top: 100px;
+                padding-left: 80px;}
+
+
+
+div.rock {padding: 10px;
+         }    
+
+
+h1.AS {font-size: 40px;
+      padding-top: 40px;
+      padding-bottom: 20px;}
+
+
+
+button.create {background-color: #151515;
+  color: white;
+  height: 44px;
+  width: 127px;
+  font-family: 'inter';
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 10px;
+}
+
+
+p.with {padding-bottom: 20px;}
+
+
+
+section.eighth {display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 100px;
+  padding-left: 80px;}
+
+
+.phy {margin-left: -99px;} 
+
+
+
+.responsive {background-color: transparent;
+            padding: 5px;
+            border-radius: 20px;}
+
+
+ul {background-color: transparent;
+                            color: black;
+    line-height: 20px;
+   list-style: none;
+   }
+   
+li {padding-top: 40px;
+   border-bottom:2px solid black;
+   position: relative;
+   cursor: pointer;}
+   
+   .responsive li ::after {
+
+    content: "+";
+    position:absolute ;
+    right: 40px;
+    top: 30px;
+}  
+
+
+
+
+.responsive .answer {padding-top:5px ;
+                                      font-size: 15px;
+                                       line-height: 1.5;
+                                       width: 100%;
+                                       height: 0px;
+                                       overflow: hidden;
+                                      transition: .5s;
+                                       }
+
+
+                                      /*Javascript styling*/
+
+.responsive.active .answer {
+  height: 40px;
+}
+
+.responsive.active .question {
+  font-size: 8px;
+  transition: .5s;
+}
+
+
+/*End of Javascript styling*/
+
+
+section.nineth {display: flex;
+               flex-direction: column;
+               justify-content: space-between;
+                align-items: center;
+                padding-left: 80px;
+
+              }
+
+
+div.Sending{ display: grid;
+            grid-template-columns: 1fr 1fr 1fr ;
+            align-items: center;
+            justify-content: space-between;
+           padding-top: 150px;
+           gap: 70px;} 
+            
+            
+ div.s{border: 4px solid #54535C;
+            border-radius: 2px;
+            
+            box-sizing: border-box;
+            padding-top:20px ;
+          padding: 50px;}
+          
+
+div.m{border: 4px solid #54535C;
+  border-radius: 2px;
+  box-sizing: border-box;
+margin-left: 4px;
+padding-top:20px ;
+ padding: 40px;}
+
+div.e{border: 4px solid #54535C;
+  border-radius: 2px;
+  margin-left: -4px;
+  box-sizing: border-box;
+  padding-top:20px ;
+padding: 40px;}
+              
+
+
+section.tenth {display: block;
+              padding-top: 70px;}
+
+div.lastpage {background-color: #7c9bf5;
+             display: grid;
+             grid-template-columns: 1fr 1fr;
+             margin-left: 50px;
+             margin-right: 50px;
+            padding-left: 40px;
+            border-radius: 10px;}
+
+h1#goat{color: white;
+        
+        font-weight: 400;
+        font-size: 48px;}
+
+p#fool{color: white;}
+
+div.nono {padding-top: 20px;
+          padding-left: 30px;}
+
+
+section.eleventh {background-color: #212121;
+                  display: block;
+                  align-self: center;
+                  padding-left: 300px;
+                margin-top: 100px;
+                overflow: hidden;} 
+                  
+                  
+div.node {display: flex;
+         flex-direction: row;
+         align-items: center;
+          
+          column-gap: 10px;
+          color: white;
+          margin-left: 170px;}   
+          
+.sub {border-radius: 6px;
+     padding: 10px;
+     font-family: 'inter';
+     font-size: 12px;}          
+
+div.nod {display: flex;
+            flex-direction: row;
+            align-items: inherit;
+             
+             column-gap: 100px;
+             color: white;
+              line-height: 12px;} 
+             
+h3.kill {font-size: 24px;
+        font-family: sans-serif;}             
+
+h5.copy{margin-left: 240px;
+  font-size: 16px;
+  color: white;}
+
+             
+             
+           
+   
+                 
+
+
+
+
+
+         
+         
+
+
+
+      
